@@ -32,4 +32,4 @@
 *.app
 
 // Random error
-#.opendb
+*.opendb
